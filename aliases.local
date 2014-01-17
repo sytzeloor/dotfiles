@@ -1,0 +1,5 @@
+# Productivity
+alias todo='$EDITOR ~/.todo'
+
+# Bundler
+alias be="bundle exec"
