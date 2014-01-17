@@ -25,3 +25,6 @@
   template = ~/.gitmessage
 [fetch]
   prune = true
+[user]
+	name = Sytze Loor
+	email = sytze@tweedledum.eu
