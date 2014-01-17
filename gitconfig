@@ -23,6 +23,3 @@
   path = .gitconfig.local
 [commit]
   template = ~/.gitmessage
-[user]
-	name = Sytze Loor
-	email = sytze@tweedledum.eu
