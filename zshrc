@@ -57,8 +57,8 @@ bindkey "^Y" accept-and-hold
 bindkey "^N" insert-last-word
 bindkey -s "^T" "^[Isudo ^[A" # "t" for "toughguy"
 
-# use vim as the visual editor
-export VISUAL=vim
+# use atom as the visual editor
+export VISUAL=atom
 export EDITOR=$VISUAL
 
 # load rbenv if available
@@ -77,3 +77,9 @@ export PATH=".git/safe/../../bin:$PATH"
 
 # Local config
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
+
+# Kill autocorrect
+alias rspec='nocorrect rspec'
+
+# Direnv activator
+eval "$(direnv hook zsh)"
