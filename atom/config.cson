@@ -1,5 +1,5 @@
 'editor':
-  'fontSize': 11
+  'fontSize': 10
   'showIndentGuide': true
   'fontFamily': 'Source Code Pro'
   'preferredLineLength': 78
@@ -9,11 +9,14 @@
     'spacegray-monokai-ui'
     'monokai'
   ]
+  'projectHome': '/Users/sytze/Sites'
 'exception-reporting':
   'userId': '2c6108e2-f452-287c-4cab-80cc3261fdfc'
 'release-notes':
-  'viewedVersion': '0.94.0'
+  'viewedVersion': '0.95.0'
 'welcome':
   'showOnStartup': false
 'metrics':
   'userId': 'e4aec987a1d0e8609cd47ac62ef09566df80f601'
+'highlight-selected':
+  'onlyHighlightWholeWords': true
