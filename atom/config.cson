@@ -20,3 +20,5 @@
   'userId': 'e4aec987a1d0e8609cd47ac62ef09566df80f601'
 'highlight-selected':
   'onlyHighlightWholeWords': true
+'whitespace':
+  'ignoreWhitespaceOnCurrentLine': false
