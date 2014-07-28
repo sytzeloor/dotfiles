@@ -1,0 +1,1 @@
+{"digest":"698dce08f74ba80c4474549b7dcca78d8d0de8d3","css":"/*\n * Your Stylesheet\n *\n * This stylesheet is loaded when Atom starts up and is reloaded automatically\n * when it is changed.\n *\n * If you are unfamiliar with LESS, you can read more about it here:\n * http://www.lesscss.org\n */\n.editor .gutter {\n  margin-right: 4px;\n}\n","imports":[],"version":1}
