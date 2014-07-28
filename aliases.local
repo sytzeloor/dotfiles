@@ -2,4 +2,4 @@
 alias todo='$EDITOR ~/.todo'
 
 # Bundler
-alias be="bundle exec"
+alias be='bundle exec'
