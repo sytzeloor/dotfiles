@@ -1,1 +1,0 @@
-{"digest":"31d878013a237b3be249a6463f5fb1c6ac74e30f","css":".trailing-whitespace {\n  background: #4182c4;\n  border-radius: 2px;\n}\n","imports":[{"path":"node_modules/atom-dark-ui/stylesheets/ui-variables.less","digest":"cb44f81ae3c9a67f02553cbee52b63bb3ed6c69b"}],"version":1}
